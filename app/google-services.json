@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "616037963156",
+    "firebase_url": "https://ascics-b3784.firebaseio.com",
+    "project_id": "ascics-b3784",
+    "storage_bucket": "ascics-b3784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616037963156:android:ea99f3574fbe6170",
+        "android_client_info": {
+          "package_name": "com.get.jsoup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616037963156-u2oghiilnsstot9v2covgdr9kbvp2j8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.get.jsoup",
+            "certificate_hash": "eba180242528cab2ff285b75f78d90bd0885c550"
+          }
+        },
+        {
+          "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq6-ucDis66rL723wAipg232rx0C8mW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616037963156:android:5261db2689f0e28c",
+        "android_client_info": {
+          "package_name": "com.goat.gucci.best_asics_sport_shoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616037963156-384eig4utcqeojod1l8jv2bvn5og9vic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goat.gucci.best_asics_sport_shoes",
+            "certificate_hash": "eba180242528cab2ff285b75f78d90bd0885c550"
+          }
+        },
+        {
+          "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq6-ucDis66rL723wAipg232rx0C8mW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616037963156:android:4ecf16fe11c86fc6",
+        "android_client_info": {
+          "package_name": "com.goat.gucci.jsoupasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616037963156-7k2pankcmqmr5rilo4dlo6l8qel3mp0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goat.gucci.jsoupasics",
+            "certificate_hash": "eba180242528cab2ff285b75f78d90bd0885c550"
+          }
+        },
+        {
+          "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq6-ucDis66rL723wAipg232rx0C8mW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616037963156:android:966165ea150ad2ea",
+        "android_client_info": {
+          "package_name": "com.vans.ascics.bestsportshoes_menwomen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616037963156-3oi14mplho6j7oo4lpb05ssb1u6hicci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vans.ascics.bestsportshoes_menwomen",
+            "certificate_hash": "eba180242528cab2ff285b75f78d90bd0885c550"
+          }
+        },
+        {
+          "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq6-ucDis66rL723wAipg232rx0C8mW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616037963156-435bm8qjrhh0qm8l74hmckjnpn1fvjcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9270405563301590~5367725332"
+    }
+  ],
+  "configuration_version": "1"
+}
